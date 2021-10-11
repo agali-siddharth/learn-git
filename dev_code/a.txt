@@ -3,3 +3,5 @@ dummy commit
 changed from web
 
 bug fix in bugs branch
+
+new line from bugs branch, only for bugs branch for now
